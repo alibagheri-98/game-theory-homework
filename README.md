@@ -1,2 +1,2 @@
 # game-theory-homework
-In this repository, you will find a game theory homework assignment. I developed this assignment for the Game Theory course taught by Dr. Fazli at Sharif University during the Spring of 2023.
+In this repository, there is a game theory homework assignment and its solution that I created while serving as a teaching assistant for the Game Theory course instructed by Dr. Fazli at Sharif University in the Spring of 2023.
